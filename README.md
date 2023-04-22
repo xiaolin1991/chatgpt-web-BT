@@ -182,5 +182,3 @@ openai 独享账号推荐购买渠道：https://tomfk.top/buy/14
 - 管理后台仪表盘显示真实数据
 - 管理后台会员管理增加删除操作
 
-## 鸣谢
-[chatgpt-web 原项目](https://github.com/Chanzhaoyu/chatgpt-web)
